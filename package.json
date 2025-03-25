@@ -1,0 +1,22 @@
+{
+  "name": "com.w0lfend.unity-serialized-interface",
+  "version": "1.0.0",
+  "displayName": "Unity Serialized Interface",
+  "description": "Serialize fields now can be assigned with objects with specific interface",
+  "unity": "2022.1",
+  "unityRelease": "1f1",
+  "documentationUrl": "https://github.com/W0lfEnd/Unity-Serialized-Interface/blob/master/README.md",
+  "changelogUrl": "https://github.com/W0lfEnd/Unity-Serialized-Interface/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/W0lfEnd/Unity-Serialized-Interface/blob/main/LICENSE.md",
+  "keywords": [
+    "interface",
+    "abtraction",
+    "serialization",
+  ],
+  "author": {
+    "name": "W0lfEnd",
+    "email": "oliinyk.dev@gmail.com",
+    "url": "https://github.com/W0lfEnd"
+  },
+  "type": "library"
+}

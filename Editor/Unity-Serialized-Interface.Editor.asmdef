@@ -1,0 +1,16 @@
+{
+    "name": "Unity-Serialized-Interface.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9fcf25c29cd54946b428e8dd8f4aa27"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
